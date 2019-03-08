@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mine Sweeper</string>
+    <string name="skip">Skip</string>
+    <string name="by_matt_doyle">Get Ready To Play!</string>
+    <string name="mine_sweeper">Mine Sweeper</string>
+    <string name="play_game">Play Game</string>
+    <string name="options">Options</string>
+    <string name="game_board">Game Board</string>
+    <string name="help">Help</string>
+    <string name="num_mines">"%1$d Mines"</string>
+    <string name="board_size">Board Size:</string>
+    <string name="of_mines"># Of Mines:</string>
+    <string name="reset_times_played">Reset Times Played</string>
+    <string name="all_mines_exploded_you_lost">All Mines Exploded! You Lost!</string>
+    <string name="congratulations_you_won">Congratulations! You won!</string>
+    <string name="how_to_play">How to play: \tChoose the board size and/or number of mines under the \'Options\' screen. Tap on the squares to try to find the hidden mines. The empty squares will display a scan showing the number of hidden mines in that square\'s row and column. Tap on a mine after you\'ve found it to display a scan. Win by finding all the mines on the board with the fewest amount of scans.</string>
+    <string name="sources">Sources: \nIntro video: created at panzoid.com\nSound: https://www.freesoundeffects.com/free-sounds/explosion-10070/\nBackground: https://www.youtube.com/watch?v=-8QrtXkfF9A</string>
+    <string name="game_starts_in">Game Starts in</string>
+    <string name="welcome_to_mine_sweeper">Welcome to Mine Sweeper</string>
+    <string name="found_0_of_4_mines">Found 0 of 4 mines</string>
+    <string name="scans_used_0"># Scans used: 0</string>
+    <string name="times_played_1522">Times Played: 1522</string>
+    <string name="found_n_of_n_mines">Found %d of %d mines</string>
+    <string name="num_scans_used"># Scans used: %d</string>
+    <string name="times_played">Times Played: %d</string>
+    <string name="game_over_txt">Game Over!</string>
+</resources>
